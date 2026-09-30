@@ -1,0 +1,2534 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2026-09-30 18:45">
+  
+  
+  
+  
+  
+  
+  <shop>
+    
+    
+    
+    
+    
+    
+    <categories>
+      
+      
+      
+      
+      
+      
+      <category id="1">Штучні ялинки</category>
+      
+      
+      
+    
+    
+    
+    </categories>
+    
+    
+    
+    
+    
+    
+    <offers>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-KARP-100" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Карпатська 100 см ПВХ з білими кінчиками</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Карпатская 100 см ПВХ с белыми кончиками</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Карпатська» висотою 100 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні. Особливість моделі — декоративні білі кінчики хвої. Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Карпатська» высотой 100 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении. Особенность модели — декоративные белые кончики хвои. Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>990</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/10fMrYqtJa4k6VWpGG-X1ro-9yd-Cvw6Y=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1fyUeOKkwsEWa4UeFU4kVHzn8kAHwn8SB=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1iO0oItQGbdLwjTtXR5E6Og5VhcgbhTIu=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-KARP-150" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Карпатська 150 см ПВХ з білими кінчиками</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Карпатская 150 см ПВХ с белыми кончиками</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Карпатська» висотою 150 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні. Особливість моделі — декоративні білі кінчики хвої. Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Карпатська» высотой 150 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении. Особенность модели — декоративные белые кончики хвои. Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>1490</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/10fMrYqtJa4k6VWpGG-X1ro-9yd-Cvw6Y=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1fyUeOKkwsEWa4UeFU4kVHzn8kAHwn8SB=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1iO0oItQGbdLwjTtXR5E6Og5VhcgbhTIu=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-KARP-180" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Карпатська 180 см ПВХ з білими кінчиками</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Карпатская 180 см ПВХ с белыми кончиками</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Карпатська» висотою 180 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні. Особливість моделі — декоративні білі кінчики хвої. Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Карпатська» высотой 180 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении. Особенность модели — декоративные белые кончики хвои. Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>1890</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1y3RoakNjP8AA4nO7FPz_wTKD-4FhxlGW=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1fyUeOKkwsEWa4UeFU4kVHzn8kAHwn8SB=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1iO0oItQGbdLwjTtXR5E6Og5VhcgbhTIu=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-KARP-200" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Карпатська 200 см ПВХ з білими кінчиками</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Карпатская 200 см ПВХ с белыми кончиками</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Карпатська» висотою 200 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні. Особливість моделі — декоративні білі кінчики хвої. Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Карпатська» высотой 200 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении. Особенность модели — декоративные белые кончики хвои. Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>2190</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1wAHThoI1tu-CH-iLM6z04VjlUlDOE5AQ=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1fyUeOKkwsEWa4UeFU4kVHzn8kAHwn8SB=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1iO0oItQGbdLwjTtXR5E6Og5VhcgbhTIu=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-KARP-220" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Карпатська 220 см ПВХ з білими кінчиками</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Карпатская 220 см ПВХ с белыми кончиками</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Карпатська» висотою 220 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні. Особливість моделі — декоративні білі кінчики хвої. Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Карпатська» высотой 220 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении. Особенность модели — декоративные белые кончики хвои. Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>2490</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1JFKmKhibMnWYJKWNqj3Q5jKeaIFchBXF=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1fyUeOKkwsEWa4UeFU4kVHzn8kAHwn8SB=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1iO0oItQGbdLwjTtXR5E6Og5VhcgbhTIu=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-KARP-250" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Карпатська 250 см ПВХ з білими кінчиками</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Карпатская 250 см ПВХ с белыми кончиками</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Карпатська» висотою 250 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні. Особливість моделі — декоративні білі кінчики хвої. Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Карпатська» высотой 250 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении. Особенность модели — декоративные белые кончики хвои. Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>3990</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://zelenederevo.com.ua/image/cache/catalog/tree/2025/karpatska/karpatska_2_5-700x700.jpg</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1vpMBH-h2HMQMEZZKKnBbv5L1A5DcBmNI=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1fyUeOKkwsEWa4UeFU4kVHzn8kAHwn8SB=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1iO0oItQGbdLwjTtXR5E6Og5VhcgbhTIu=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-KARP-300" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Карпатська 300 см ПВХ з білими кінчиками</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Карпатская 300 см ПВХ с белыми кончиками</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Карпатська» висотою 300 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні. Особливість моделі — декоративні білі кінчики хвої. Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Карпатська» высотой 300 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении. Особенность модели — декоративные белые кончики хвои. Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>6090</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1vpMBH-h2HMQMEZZKKnBbv5L1A5DcBmNI=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1fyUeOKkwsEWa4UeFU4kVHzn8kAHwn8SB=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1iO0oItQGbdLwjTtXR5E6Og5VhcgbhTIu=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-KAZKA-100" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Казка 100 см ПВХ зелена</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Сказка 100 см ПВХ зеленая</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Казка» висотою 100 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні.  Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Казка» высотой 100 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении.  Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>890</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1Hn1ulL5_z5KS8Qbf4OnQMVYF31Lhjagq=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1FhMoMHgIkWovGB_umJJ1I45VYP1EdZIc=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-KAZKA-150" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Казка 150 см ПВХ зелена</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Сказка 150 см ПВХ зеленая</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Казка» висотою 150 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні.  Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Казка» высотой 150 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении.  Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>1190</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1Hn1ulL5_z5KS8Qbf4OnQMVYF31Lhjagq=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1FhMoMHgIkWovGB_umJJ1I45VYP1EdZIc=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-KAZKA-180" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Казка 180 см ПВХ зелена</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Сказка 180 см ПВХ зеленая</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Казка» висотою 180 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні.  Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Казка» высотой 180 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении.  Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>1690</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1u6mxpXVsE3piFHataZbmRyQJsz4c-JlM=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1FhMoMHgIkWovGB_umJJ1I45VYP1EdZIc=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-KAZKA-200" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Казка 200 см ПВХ зелена</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Сказка 200 см ПВХ зеленая</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Казка» висотою 200 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні.  Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Казка» высотой 200 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении.  Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>1890</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1u6mxpXVsE3piFHataZbmRyQJsz4c-JlM=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1FhMoMHgIkWovGB_umJJ1I45VYP1EdZIc=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-KAZKA-220" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Казка 220 см ПВХ зелена</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Сказка 220 см ПВХ зеленая</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Казка» висотою 220 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні.  Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Казка» высотой 220 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении.  Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>2090</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1TBkGK0_hv6stESuEDod6rYxA0GNDmAnt=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1FhMoMHgIkWovGB_umJJ1I45VYP1EdZIc=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-KAZKA-250" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Казка 250 см ПВХ зелена</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Сказка 250 см ПВХ зеленая</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Казка» висотою 250 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні.  Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Казка» высотой 250 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении.  Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>3290</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1_hIR9tRwMNAz96WeAPvapR-8kzWAC_Gz=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1FhMoMHgIkWovGB_umJJ1I45VYP1EdZIc=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-ELIT-150" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Елітна 150 см ПВХ з шишками</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Элитная 150 см ПВХ с шишками</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Елітна» висотою 150 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні. Модель декорована натуральними шишками. Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Елітна» высотой 150 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении. Модель декорирована натуральными шишками. Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>1590</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1kBZgeGojRr54RZVjjZHuWbfuXDQgQzG6=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1fb67JrC1WU44YCy6lTv-ODUpnAyQcLZj=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/14b-PDJXXvrVYnuybTCo5jUgSLxrJcNxE=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-ELIT-180" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Елітна 180 см ПВХ з шишками</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Элитная 180 см ПВХ с шишками</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Елітна» висотою 180 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні. Модель декорована натуральними шишками. Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Елітна» высотой 180 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении. Модель декорирована натуральными шишками. Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>2390</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1-u1KZpHDlLWqiq6kuIrnHcqU9qECjrW7=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1fb67JrC1WU44YCy6lTv-ODUpnAyQcLZj=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/14b-PDJXXvrVYnuybTCo5jUgSLxrJcNxE=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-ELIT-200" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Елітна 200 см ПВХ з шишками</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Элитная 200 см ПВХ с шишками</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Елітна» висотою 200 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні. Модель декорована натуральними шишками. Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Елітна» высотой 200 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении. Модель декорирована натуральными шишками. Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>2890</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1jJQPN5NxqB3lbNkmMf2rWwheaMfzRK44=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1fb67JrC1WU44YCy6lTv-ODUpnAyQcLZj=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/14b-PDJXXvrVYnuybTCo5jUgSLxrJcNxE=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-ELIT-220" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Елітна 220 см ПВХ з шишками</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Элитная 220 см ПВХ с шишками</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Елітна» висотою 220 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні. Модель декорована натуральними шишками. Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Елітна» высотой 220 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении. Модель декорирована натуральными шишками. Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>3190</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1MmKy0gb9-WkOkw02OyV9JxCbSKnZnrAe=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1fb67JrC1WU44YCy6lTv-ODUpnAyQcLZj=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/14b-PDJXXvrVYnuybTCo5jUgSLxrJcNxE=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-ELIT-250" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Елітна 250 см ПВХ з шишками</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Элитная 250 см ПВХ с шишками</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Елітна» висотою 250 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні. Модель декорована натуральними шишками. Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Елітна» высотой 250 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении. Модель декорирована натуральными шишками. Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>4690</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1YPZwEZALQe29Gs0w9IE7fg3OQ49s0nmj=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1fb67JrC1WU44YCy6lTv-ODUpnAyQcLZj=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/14b-PDJXXvrVYnuybTCo5jUgSLxrJcNxE=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-KARMEN-150-GOLD" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Кармен Золото 150 см ПВХ</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Кармен Золото 150 см ПВХ</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Кармен Золото» висотою 150 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні. Гілочки мають декоративні золотисті акценти. Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Кармен Золото» высотой 150 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении. Веточки имеют декоративные золотистые акценты. Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>1790</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1jLaAaO4lBP2gB3PpfPSRc4q2EgjngHJ9=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://zelenederevo.com.ua/image/cache/catalog/gilka/zoloto/KMR_8763-min-700x700.jpg</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-KARMEN-150-SILVER" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Кармен Срібло 150 см ПВХ</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Кармен Серебро 150 см ПВХ</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Кармен Срібло» висотою 150 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні. Гілочки мають декоративні сріблясті акценти. Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Кармен Срібло» высотой 150 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении. Веточки имеют декоративные серебристые акценты. Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>1790</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1WlqiRC4NNi6jmJonSidVqpAg2ohGkVV5=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1QBM3LnNemibViyU2b1bnhdyj6vBIR4CA=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-KARMEN-150-SOFIA" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Кармен Софія 150 см ПВХ засніжена</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Кармен София 150 см ПВХ заснеженная</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Кармен Софія» висотою 150 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні. Модель має засніжений декор, шишки та декоративні ягоди. Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Кармен Софія» высотой 150 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении. Модель имеет заснеженный декор, шишки и декоративные ягоды. Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>1790</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1Rg0FdugNz4-BugE7iHenTJ7cDdsDu5Q6=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1Xm2ON7foBDsL-RWz-OtnU0q6pOneN0OO=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/16NlgpmEVxAUAyE8xUDklshitOY5uNBM7=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-KARMEN-180-GOLD" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Кармен Золото 180 см ПВХ</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Кармен Золото 180 см ПВХ</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Кармен Золото» висотою 180 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні. Гілочки мають декоративні золотисті акценти. Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Кармен Золото» высотой 180 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении. Веточки имеют декоративные золотистые акценты. Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>2490</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1H1kYTZTv6rwlBm5x60k3m95s1Ic5y3w-=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://zelenederevo.com.ua/image/cache/catalog/gilka/zoloto/KMR_8763-min-700x700.jpg</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-KARMEN-180-SILVER" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Кармен Срібло 180 см ПВХ</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Кармен Серебро 180 см ПВХ</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Кармен Срібло» висотою 180 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні. Гілочки мають декоративні сріблясті акценти. Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Кармен Срібло» высотой 180 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении. Веточки имеют декоративные серебристые акценты. Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>2490</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1LYFMPfzOunvKnZJljGRj0nPoLGEvGhtL=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1QBM3LnNemibViyU2b1bnhdyj6vBIR4CA=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-KARMEN-180-SOFIA" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Кармен Софія 180 см ПВХ засніжена</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Кармен София 180 см ПВХ заснеженная</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Кармен Софія» висотою 180 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні. Модель має засніжений декор, шишки та декоративні ягоди. Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Кармен Софія» высотой 180 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении. Модель имеет заснеженный декор, шишки и декоративные ягоды. Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>2490</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1Rg0FdugNz4-BugE7iHenTJ7cDdsDu5Q6=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1Xm2ON7foBDsL-RWz-OtnU0q6pOneN0OO=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/16NlgpmEVxAUAyE8xUDklshitOY5uNBM7=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-KARMEN-200-GOLD" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Кармен Золото 200 см ПВХ</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Кармен Золото 200 см ПВХ</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Кармен Золото» висотою 200 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні. Гілочки мають декоративні золотисті акценти. Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Кармен Золото» высотой 200 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении. Веточки имеют декоративные золотистые акценты. Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>2990</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1IyVME_6fvMIV-IKHUDeSqADiFpWJApi0=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://zelenederevo.com.ua/image/cache/catalog/gilka/zoloto/KMR_8763-min-700x700.jpg</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-KARMEN-200-SILVER" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Кармен Срібло 200 см ПВХ</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Кармен Серебро 200 см ПВХ</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Кармен Срібло» висотою 200 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні. Гілочки мають декоративні сріблясті акценти. Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Кармен Срібло» высотой 200 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении. Веточки имеют декоративные серебристые акценты. Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>2990</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1B2w5-9gQQuehnNBaTm2l1dAaAJRIkHpj=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1QBM3LnNemibViyU2b1bnhdyj6vBIR4CA=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-KARMEN-200-SOFIA" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Кармен Софія 200 см ПВХ засніжена</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Кармен София 200 см ПВХ заснеженная</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Кармен Софія» висотою 200 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні. Модель має засніжений декор, шишки та декоративні ягоди. Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Кармен Софія» высотой 200 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении. Модель имеет заснеженный декор, шишки и декоративные ягоды. Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>2990</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1OAl-pnte72POIX68c-wNH9xhzKdaDc8Z=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1Xm2ON7foBDsL-RWz-OtnU0q6pOneN0OO=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/16NlgpmEVxAUAyE8xUDklshitOY5uNBM7=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-KARMEN-220-GOLD" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Кармен Золото 220 см ПВХ</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Кармен Золото 220 см ПВХ</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Кармен Золото» висотою 220 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні. Гілочки мають декоративні золотисті акценти. Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Кармен Золото» высотой 220 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении. Веточки имеют декоративные золотистые акценты. Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>3390</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1kXNhg7atBIQ3lPkXa6eKAT9-VDPWd29d=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://zelenederevo.com.ua/image/cache/catalog/gilka/zoloto/KMR_8763-min-700x700.jpg</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-KARMEN-220-SILVER" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Кармен Срібло 220 см ПВХ</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Кармен Серебро 220 см ПВХ</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Кармен Срібло» висотою 220 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні. Гілочки мають декоративні сріблясті акценти. Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Кармен Срібло» высотой 220 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении. Веточки имеют декоративные серебристые акценты. Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>3390</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1M5FIojpGKZeV-EcZOLURYkDEZeXYD_vX=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1QBM3LnNemibViyU2b1bnhdyj6vBIR4CA=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-KARMEN-220-SOFIA" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Кармен Софія 220 см ПВХ засніжена</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Кармен София 220 см ПВХ заснеженная</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Кармен Софія» висотою 220 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні. Модель має засніжений декор, шишки та декоративні ягоди. Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Кармен Софія» высотой 220 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении. Модель имеет заснеженный декор, шишки и декоративные ягоды. Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>3390</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1OAl-pnte72POIX68c-wNH9xhzKdaDc8Z=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1Xm2ON7foBDsL-RWz-OtnU0q6pOneN0OO=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/16NlgpmEVxAUAyE8xUDklshitOY5uNBM7=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-KARMEN-250-GOLD" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Кармен Золото 250 см ПВХ</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Кармен Золото 250 см ПВХ</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Кармен Золото» висотою 250 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні. Гілочки мають декоративні золотисті акценти. Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Кармен Золото» высотой 250 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении. Веточки имеют декоративные золотистые акценты. Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>4890</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://zelenederevo.com.ua/image/cache/catalog/tree/zolota/2024_%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%BE-2%2C5--700x700.jpg</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1ZkQ9zXASLvSfbKmawg-0LMQ-4BtjSuyR=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://zelenederevo.com.ua/image/cache/catalog/gilka/zoloto/KMR_8763-min-700x700.jpg</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-KARMEN-250-SILVER" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Кармен Срібло 250 см ПВХ</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Кармен Серебро 250 см ПВХ</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Кармен Срібло» висотою 250 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні. Гілочки мають декоративні сріблясті акценти. Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Кармен Срібло» высотой 250 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении. Веточки имеют декоративные серебристые акценты. Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>4890</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1xWuMFbrnQi7hlhnwALRxBDKrkmeBwzmq=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1QBM3LnNemibViyU2b1bnhdyj6vBIR4CA=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+      
+      
+      
+      <offer id="ZD-PVC-KARMEN-250-SOFIA" available="true">
+        
+        
+        
+        
+        
+        
+        <name_ua>Штучна ялинка Zelene Derevo Кармен Софія 250 см ПВХ засніжена</name_ua>
+        
+        
+        
+        
+        
+        
+        <name_ru>Искусственная елка Zelene Derevo Кармен София 250 см ПВХ заснеженная</name_ru>
+        
+        
+        
+        
+        
+        
+        <description_ua>Штучна ялинка Zelene Derevo «Кармен Софія» висотою 250 см виготовлена з ПВХ. Пишна конічна крона, м’яка хвоя та гнучкі гілочки дають змогу акуратно розправити дерево після транспортування. Ялинка розбірна, постачається з підставкою та підходить для встановлення у квартирі, будинку, офісі або торговому приміщенні. Модель має засніжений декор, шишки та декоративні ягоди. Виробництво — Україна.</description_ua>
+        
+        
+        
+        
+        
+        
+        <description_ru>Искусственная елка Zelene Derevo «Кармен Софія» высотой 250 см изготовлена из ПВХ. Пышная коническая крона, мягкая хвоя и гибкие веточки позволяют аккуратно расправить дерево после транспортировки. Елка разборная, поставляется с подставкой и подходит для установки в квартире, доме, офисе или торговом помещении. Модель имеет заснеженный декор, шишки и декоративные ягоды. Производство — Украина.</description_ru>
+        
+        
+        
+        
+        
+        
+        <price>4890</price>
+        
+        
+        
+        
+        
+        
+        <categoryId>1</categoryId>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1pLwUKyXvn0wyRkhjKU4Vqd8FyURpomk1=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/1Xm2ON7foBDsL-RWz-OtnU0q6pOneN0OO=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <picture>https://lh3.googleusercontent.com/d/16NlgpmEVxAUAyE8xUDklshitOY5uNBM7=w1600</picture>
+        
+        
+        
+        
+        
+        
+        <param name="Матеріал хвої">ПВХ</param>
+      </offer>
+      
+      
+      
+    
+    
+    
+    </offers>
+    
+    
+    
+  
+  
+  
+  </shop>
+  
+  
+  
+
+
+
+</yml_catalog>
